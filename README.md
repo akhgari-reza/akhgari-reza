@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-reza-akhgari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-akhgari-786473206/)]( https://www.linkedin.com/in/reza-akhgari-786473206/)
+[![Gmail Badge](https://img.shields.io/badge/-mhdshahdoost-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rakhgari@gmail.com)](mailto: rakhgari@gmail.com)
 
 <!--
 **akhgari-reza/akhgari-reza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -9,7 +11,8 @@ Enthusiast of new technologies around java, microservices, containers.
 - ⚡ Fun fact: Russians chose me to travel to Saturn and I will work 35+1 hours a day!! 
 - Contact: [rakhgari@gmail.com]
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/akhgari-reza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/konigdima/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='20'>](r.akhgari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='20'>](r.akhgari@yandex.ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='20'>](rakhgari@google.com)  
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/akhgari-reza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/konigdima/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='20'>](r.akhgari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='20'>](r.akhgari@yandex.ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='20'>](rakhgari@google.com) -->
+
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhgari-reza&show_icons=true)-->  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhgari-reza)  
