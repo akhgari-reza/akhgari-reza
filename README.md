@@ -3,6 +3,9 @@
 **akhgari-reza/akhgari-reza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 My name is Reza! I work as a Java Back-end Developer; A Passionate one! 
 Enthusiast of new technologies around java, microservices, containers.
+
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white  https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 - 🔭 I’m currently working on a Banking system. In team I have a role as both a service designer and the developer to restructure the old-fashioned monolithic design to a distributed microservice architecture. 
 - 🌱 To improve and expand technical knowledge, I’m currently focus more on topics that I have worked on less. Knative , Kafka and Message System Design Patterns in Spring Integration are examples.
 - ⚡ Fun fact: Russians chose me to travel to Saturn and I will work 35+1 hours a day!! 
