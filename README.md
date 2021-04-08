@@ -12,6 +12,5 @@ Enthusiast of new technologies around java, microservices, containers.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/akhgari-reza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/konigdima/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='20'>](r.akhgari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='20'>](r.akhgari@yandex.ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='20'>](rakhgari@google.com)  
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhgari-reza&show_icons=true)-->  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhgari-reza)  
 
