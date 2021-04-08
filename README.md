@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-reza-akhgari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-akhgari-786473206/)]( https://www.linkedin.com/in/reza-akhgari-786473206/)
-[![Gmail Badge](https://img.shields.io/badge/-mhdshahdoost-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rakhgari@gmail.com)](mailto: rakhgari@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/reza-akhgari-786473206-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-akhgari-786473206/)]( https://www.linkedin.com/in/reza-akhgari-786473206/)
+[![Gmail Badge](https://img.shields.io/badge/-rakhgari-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rakhgari@gmail.com)](mailto: rakhgari@gmail.com)
 
 <!--
 **akhgari-reza/akhgari-reza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
