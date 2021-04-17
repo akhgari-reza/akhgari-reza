@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--
 **akhgari-reza/akhgari-reza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-My name is Reza! I work as a Java Back-end Developer; A Passionate one! 
+It's Reza! I work as a Java Back-end Developer; A Passionate one! 
 Enthusiast of new technologies around java, microservices, containers.
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -13,7 +13,6 @@ Enthusiast of new technologies around java, microservices, containers.
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/akhgari-reza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/konigdima/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='20'>](r.akhgari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='20'>](r.akhgari@yandex.ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='20'>](rakhgari@google.com) -->
 
-
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhgari-reza&show_icons=true)-->  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhgari-reza&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhgari-reza)  
 
